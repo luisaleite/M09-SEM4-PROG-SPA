@@ -23,6 +23,8 @@ Esses são alguns conceitos:
 
 IMAGENS
 
-![image1](https://imgur.com/a/4vlropN.jpg)
+<img src='Imagem do WhatsApp de 2024-03-04 à(s) 00.10.32_0423be8f.jpg'> 
+
+
 
 ![image1](https://imgur.com/a/a7u9jhK.jpg)
