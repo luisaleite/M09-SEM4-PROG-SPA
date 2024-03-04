@@ -11,6 +11,7 @@ TECNOLOGIAS:
 
 CONCEITOS APRENDIDOS
 Esses são alguns conceitos:
+
 1- Criação de Formulários Dinâmicos: Aprendi a criar formulários que podem ser modificados dinamicamente com base em diferentes requisitos ou entradas do usuário.
 
 2- Geração de Componentes Dinâmicos: Compreendi como gerar componentes dinamicamente dentro de um formulário, permitindo uma estrutura flexível e adaptável.
