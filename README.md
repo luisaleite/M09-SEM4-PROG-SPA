@@ -23,6 +23,6 @@ Esses são alguns conceitos:
 
 IMAGENS
 
-![image1](https://imgur.com/a/4vlropN)
+![image1](https://imgur.com/a/4vlropN.jpg)
 
-![image1](https://imgur.com/a/a7u9jhK)
+![image1](https://imgur.com/a/a7u9jhK.jpg)
