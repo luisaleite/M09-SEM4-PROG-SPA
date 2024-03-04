@@ -10,6 +10,7 @@ TECNOLOGIAS:
 - Linguagem: Angular é um framework front-end desenvolvido pelo Google para criar aplicativos da web dinâmicos. Ele utiliza JavaScript e a arquitetura MVC para organizar o código. Com recursos como vinculação de dados bidirecional e roteamento, o Angular facilita a criação de interfaces responsivas e reutilizáveis. Amplamente utilizado na indústria, é uma ferramenta poderosa para desenvolvedores web.
 
 CONCEITOS APRENDIDOS
+
 Esses são alguns conceitos:
 
 1- Criação de Formulários Dinâmicos: Aprendi a criar formulários que podem ser modificados dinamicamente com base em diferentes requisitos ou entradas do usuário.
